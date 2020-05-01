@@ -1,0 +1,24 @@
+{
+  "name": "nodeutil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "accesstoken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidbullet/nodeutil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solidbullet/nodeutil/issues"
+  },
+  "homepage": "https://github.com/solidbullet/nodeutil#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
